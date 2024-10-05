@@ -1,0 +1,4 @@
+#!/system/bin/sh
+
+echo apt update!
+echo apt upgrade!
